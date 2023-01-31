@@ -1,0 +1,8 @@
+# ignore appsetting.json
+appsetting.json
+
+# ignore obj folder
+Obj/
+
+# ignore Properties folder
+Properties/
